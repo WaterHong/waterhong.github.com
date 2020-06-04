@@ -11,7 +11,7 @@
 - 绑定本地ssh公钥到云端实例，[查看步骤](https://cloud.tencent.com/document/product/213/35700#.E4.BD.BF.E7.94.A8.E5.AF.86.E9.92.A5.E7.99.BB.E5.BD.95)
 - 本地 VScode 上安装 remote development
 - 点击左侧小电视，点击 + 号，在命令行输入ssh [name]@[hostIp]
-- 打开 VSCode 命令行(shift+command+p), 输入open config, 选择Remote SSH: Open Configuration File, 选择 /Users/hong/.ssh/config 
+- 打开 VSCode 命令行(shift+command+p), 输入open config, 选择Remote SSH: Open Configuration File, 选择 /Users/hong/.ssh/config, 输入配置 
   
     Host Tcloud
     
